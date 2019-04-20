@@ -1,5 +1,7 @@
 body{
-    margin: 5% auto;
+    margin: auto;
+    margin-top: 5%;
+    margin-bottom: 1%;
     width: 60%;
     font-size: 1.2rem;
     line-height: 1.8rem;
@@ -80,4 +82,17 @@ blockquote {
     .columns{
         display: block;
     }
+}
+
+.footer1 {
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.footer2 {
+    text-align: center;
+    margin-bottom: 0px;
+    margin-top: -3px;
+    font-size: 15px;
 }
